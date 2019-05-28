@@ -15,6 +15,7 @@ Install these tools in your browser of choice. I'll be using Chrome during the w
 Make sure to run `npm install` in each repository.
 
 - [Simple Counter](https://github.com/stevekinney/simple-counter)
+- [Dualing Counters](https://github.com/stevekinney/dualing-counters/)
 - [Kanbananza](https://github.com/stevekinney/kanbananza)
 - [Pizza Calculator](https://github.com/stevekinney/pizza-calculator-two)
 - [Tweet Stream](https://github.com/stevekinney/tweet-stream-react)
