@@ -21,6 +21,8 @@ Make sure to run `npm install` in each repository.
 - [Tweet Stream](https://github.com/stevekinney/tweet-stream-react)
 - [Star Wars Autocomplete](https://github.com/stevekinney/star-wars-autocomplete)
 - [Jetsetter](https://github.com/stevekinney/jetsetter-two)
+- [Redux Counter](https://github.com/stevekinney/redux-counter)
+- [MobX Counter](https://github.com/stevekinney/mobx-counter)
 
 ## RunKit Notebooks
 
@@ -56,6 +58,7 @@ We'll be using the following APIs in this workshop:
 - [Asynchronous State (with Hooks)](https://codesandbox.io/s/zx54l1kzpl)
 - [Basic MobX](https://codesandbox.io/s/k5nrxyowk3)
 - [Basic MobX (with Object Literal)](https://codesandbox.io/s/olpnq8ykz9)
+- [Fundamental MobX (Boilerplate)[https://codesandbox.io/s/mobx-boilerplate-us7wo]
 - [Fundamental MobX](https://codesandbox.io/s/j2vlnovo05)
 - [Fundamental MobX (with Decorators)](https://codesandbox.io/s/m5po6p0jr8)
 - [Tweet Stream (Boilerplate)](https://codesandbox.io/s/70mdp)
