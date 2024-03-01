@@ -1,3 +1,6 @@
+> [!NOTE]
+> This repo is from an archived version of the course. Watch the latest version of the course on [frontendmasters.com](https://frontendmasters.com/courses/react-performance/).
+
 # React State, Redux, and MobX
 
 Here is everything you need to get rocking and rolling for the React State and Redux & MobX workshops. Make sure you give each repository a fresh `git pull` in the morning—just in case!
